@@ -1,1 +1,4 @@
 > uvicorn main:app --reload
+
+
+in pydantic models: to make a field required, simply remove the default value
