@@ -2,3 +2,6 @@
 
 
 in pydantic models: to make a field required, simply remove the default value
+
+127.0.0.1:8000/docs
+127.0.0.1:8000/redoc
